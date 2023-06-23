@@ -1,0 +1,9 @@
+latihan java Script OOP 
+di Web Programing Unpas
+tanngal 20 juli 2023
+
+//getElementById() = menangkap element id
+// getElementByTagName = mencari element element yang mememiliki nama class tersebut
+// getElementByClassName = cari element class
+//querySelector() = mencari element/selector 
+querySelectorAll() = mencaru element-element 
